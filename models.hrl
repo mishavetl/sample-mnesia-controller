@@ -1,0 +1,4 @@
+-record(user, {
+		name,
+		passw
+}).
